@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "727704298334",
+    "project_id": "dmythra-4971d",
+    "storage_bucket": "dmythra-4971d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727704298334:android:548ea6c6aa5cff38c225cf",
+        "android_client_info": {
+          "package_name": "com.example.dmythra2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzr39nJTtYFfGZLny8PX_s8QBdp4TAdPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
